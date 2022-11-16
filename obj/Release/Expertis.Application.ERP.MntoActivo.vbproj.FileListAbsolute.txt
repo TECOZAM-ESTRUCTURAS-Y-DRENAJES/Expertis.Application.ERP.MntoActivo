@@ -1,0 +1,34 @@
+C:\Builds\2\Producto\Expertis50R2_Release\bin\Release\Expertis.Application.ERP.MntoActivo.dll
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\ResolveAssemblyReference.cache
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.frmAltaPreventivoContador.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.FrmCambioArticulo.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.frmCambioDeArticulo.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.frmCambioDeEstado.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.FrmOTs.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.FrmPreventivos.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.MntoActivos.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.MntoMarca.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.MntoModelo.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Expertis.Application.ERP.MntoActivo.vbproj.GenerateResource.Cache
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Expertis.Application.ERP.MntoActivo.dll.licenses
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Expertis.Application.ERP.MntoActivo.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Application.ERP.MntoActivo.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.frmAltaPreventivoContador.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.FrmCambioArticulo.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.frmCambioDeArticulo.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.frmCambioDeEstado.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.FrmOTs.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.FrmPreventivos.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.MntoActivos.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.MntoMarca.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.MntoModelo.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Expertis.Application.ERP.MntoActivo.vbproj.GenerateResource.Cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Expertis.Application.ERP.MntoActivo.dll.licenses
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Expertis.Application.ERP.MntoActivo.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.MntoNumerosSerie.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Expertis.Application.ERP.MntoActivo.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Application.ERP.MntoActivo.pdb
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.CINumeroDeSerie.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.MntoCrearNumerosDeSerie.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Release\Solmicro.Expertis.Application.ERP.MntoActivo.MntoControlArticulosNSerie.resources
