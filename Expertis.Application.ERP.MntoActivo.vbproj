@@ -245,6 +245,12 @@
     <Compile Include="frmCambioDeEstado.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmCreaMovimientoManual.Designer.vb">
+      <DependentUpon>frmCreaMovimientoManual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreaMovimientoManual.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FrmOTs.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -278,6 +284,12 @@
     <Compile Include="MntoNumerosSerie.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="vfrmCIMovimientosActivos.Designer.vb">
+      <DependentUpon>vfrmCIMovimientosActivos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vfrmCIMovimientosActivos.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <EmbeddedResource Include="CINumeroDeSerie.resx">
       <DependentUpon>CINumeroDeSerie.vb</DependentUpon>
       <SubType>Designer</SubType>
@@ -296,6 +308,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmCambioDeEstado.resx">
       <DependentUpon>frmCambioDeEstado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreaMovimientoManual.resx">
+      <DependentUpon>frmCreaMovimientoManual.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmOTs.resx">
@@ -329,6 +345,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MntoNumerosSerie.resx">
       <DependentUpon>MntoNumerosSerie.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vfrmCIMovimientosActivos.resx">
+      <DependentUpon>vfrmCIMovimientosActivos.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>

@@ -18,3 +18,4 @@ C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Ex
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Debug\Solmicro.Expertis.Application.ERP.MntoActivo.CINumeroDeSerie.resources
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Debug\Solmicro.Expertis.Application.ERP.MntoActivo.MntoCrearNumerosDeSerie.resources
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Debug\Solmicro.Expertis.Application.ERP.MntoActivo.MntoControlArticulosNSerie.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.MntoActivo\obj\Debug\Solmicro.Expertis.Application.ERP.MntoActivo.frmCreaMovimientoManual.resources
