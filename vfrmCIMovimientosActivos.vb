@@ -17,8 +17,8 @@
         e.Filter.Add("IDAlmacenDestino", FilterOperator.Equal, AlmacenDestino.Text, FilterType.String)
         e.Filter.Add("IDTipo", FilterOperator.Equal, TipoArticulo.Text, FilterType.String)
         e.Filter.Add("IDFamilia", FilterOperator.Equal, AdvFamilia.Text, FilterType.String)
-        e.Filter.Add("FechaDocumento", FilterOperator.GreaterThanOrEqual, FechaDocumentoDesde.Value, FilterType.DateTime)
-        e.Filter.Add("FechaDocumento", FilterOperator.LessThanOrEqual, FechaDocumentoHasta.Value, FilterType.DateTime)
+        e.Filter.Add("FechaEnvio", FilterOperator.GreaterThanOrEqual, FechaDocumentoDesde.Value, FilterType.DateTime)
+        e.Filter.Add("FechaEnvio", FilterOperator.LessThanOrEqual, FechaDocumentoHasta.Value, FilterType.DateTime)
 
     End Sub
 End Class
