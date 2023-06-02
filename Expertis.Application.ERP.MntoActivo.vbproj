@@ -107,6 +107,10 @@
       <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Expertis.Application.ERP.MmtoStocks, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Expertis.Business.BusinessEnum">
       <Name>Expertis.Business.BusinessEnum</Name>
       <HintPath>..\..\..\Bin\Expertis.Business.BusinessEnum.dll</HintPath>

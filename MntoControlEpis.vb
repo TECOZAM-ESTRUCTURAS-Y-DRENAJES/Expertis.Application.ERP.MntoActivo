@@ -1,4 +1,5 @@
-﻿Public Class MntoControlEpis
+﻿Imports Solmicro.Expertis.Application.ERP.MmtoStocks
+Public Class MntoControlEpis
 
     Private Sub MntoControlEpis_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         LoadFormActions()
@@ -174,4 +175,37 @@
         Return dt
 
     End Function
+
+    Private Sub MntoControlEpis_SetReportDesignObjects(ByVal sender As System.Object, ByVal e As Solmicro.Expertis.Engine.UI.ReportDesignObjectsEventArgs) Handles MyBase.SetReportDesignObjects
+        Dim frm As New Expertis.Application.ERP.MmtoStocks.frmInformeFecha
+
+        Dim Fecha1 As Date
+        Dim Fecha2 As Date
+
+        If e.Alias = "CONTEPIS" Then
+            frm.ShowDialog()
+
+            Fecha1 = frm.FechaDesde.Value
+
+            Fecha2 = frm.FechaHasta.Value
+            If frm.blEstado = True Then
+                MessageBox.Show("Proceso Cancelado", "Información", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+                e.Cancel = True
+                Exit Sub
+            End If
+
+            Dim rp As New Report("CONTEPIS")
+            Dim filtro As New Filter
+            filtro.Add("FechaEntrega", FilterOperator.GreaterThanOrEqual, Fecha1)
+            filtro.Add("FechaEntrega", FilterOperator.LessThanOrEqual, Fecha2)
+
+            rp.DataSource = New BE.DataEngine().Filter("vControlEpisTrabajadores", filtro)
+            rp.Formulas("fecha1").Text = Fecha1
+            rp.Formulas("fecha2").Text = Fecha2
+            ExpertisApp.OpenReport(rp)
+
+            e.Cancel = True
+        End If
+
+    End Sub
 End Class
